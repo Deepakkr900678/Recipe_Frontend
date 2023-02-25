@@ -1,0 +1,34 @@
+.card_1{
+    margin-top: 10px;
+    margin-left: -80%;
+}
+.card_2{
+    margin-top: -270px;
+    margin-left: -350px;
+}
+.card_3{
+    margin-left: 80%;
+    margin-top: -270px;
+}
+.card_4{
+    margin-left: 320px;
+    margin-top: -270px;
+}
+
+.header{
+    margin-left: -90%;
+    margin-bottom: 10px;
+}
+.box{
+    background-color: rgb(57, 235, 255);
+}
+.input{
+    background-color: rgb(206, 206, 206);
+    height: 50px;
+    width: 500px;
+}
+.button{
+    /* background-color: black; */
+    columns: white;
+    margin: 5px;
+}
